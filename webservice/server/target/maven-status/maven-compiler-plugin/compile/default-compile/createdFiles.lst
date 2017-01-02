@@ -1,0 +1,13 @@
+demo\wssec\client\ClientCallbackHandler.class
+org\apache\hello_world_soap_http\types\ObjectFactory.class
+org\apache\hello_world_soap_http\Greeter.class
+demo\wssec\sts\Server.class
+demo\wssec\client\Client.class
+org\apache\hello_world_soap_http\SOAPService.class
+org\apache\hello_world_soap_http\types\package-info.class
+demo\wssec\server\ServerCallbackHandler.class
+demo\wssec\sts\STSCallbackHandler.class
+demo\wssec\server\Server.class
+org\apache\hello_world_soap_http\types\GreetMe.class
+org\apache\hello_world_soap_http\types\GreetMeResponse.class
+demo\wssec\server\GreeterImpl.class
